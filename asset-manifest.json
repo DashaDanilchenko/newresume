@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github.io/newresume/static/css/main.65fd59c7.css",
+    "main.js": "/github.io/newresume/static/js/main.5640ee1d.js",
+    "static/media/myPhoto.jpg": "/github.io/newresume/static/media/myPhoto.64776039bfb2f53b1022.jpg",
+    "index.html": "/github.io/newresume/index.html",
+    "main.65fd59c7.css.map": "/github.io/newresume/static/css/main.65fd59c7.css.map",
+    "main.5640ee1d.js.map": "/github.io/newresume/static/js/main.5640ee1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65fd59c7.css",
+    "static/js/main.5640ee1d.js"
+  ]
+}
